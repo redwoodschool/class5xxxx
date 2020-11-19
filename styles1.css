@@ -1,0 +1,6 @@
+body{background-color:blue;columns:4;}
+nav{font-color: crimsson;font-size:30px;column-span:all}
+h1{column-span:all}
+hr{column-span:all}
+img(display:block;width:100%;height:auto;margin-left:auto;margin-right:auto}
+p{}
